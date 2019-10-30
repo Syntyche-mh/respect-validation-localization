@@ -1,9 +1,9 @@
-#PHP respect/validation exception messages translation with gettext
+# PHP respect/validation exception messages translation with gettext
 
-##Available translations
+## Available translations
 - French
 
-##How to create  a new translation
+## How to create  a new translation
 Composer is needed.
 
 ``` Bash
@@ -18,5 +18,5 @@ You'll end up with three generated files :
 
 I used a combination of POedit and manual/regexp search & replace to accelerate the translation of (numerous) repetitive words.  
 
-##Contributing
+## Contributing
 The end result may not be perfect yet, and there might be some expressions missing. Don't hesitate to send me a better grep/extracting method for extract.sh, or send me other completed translations.
